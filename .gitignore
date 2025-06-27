@@ -2,7 +2,7 @@
 # This ignores all node_modules directories anywhere in the project
 # including /frontend/node_modules and /backend/node_modules
 node_modules/
-
+.env
 # Environment Variables
 # This ignores all .env files anywhere in the project
 # This is CRUCIAL for keeping your secrets out of GitHub!
