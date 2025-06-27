@@ -6,7 +6,7 @@ node_modules/
 # Environment Variables
 # This ignores all .env files anywhere in the project
 # This is CRUCIAL for keeping your secrets out of GitHub!
-.env
+
 # You can also be more specific if needed, but a single .env entry is usually enough
 # /frontend/.env
 # /backend/.env
